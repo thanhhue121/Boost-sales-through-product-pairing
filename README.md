@@ -23,6 +23,10 @@ ORDER BY demand DESC;
 ```
 - **Result**: The query returned 2,175 unique product pairs, sorted by descending demand (>50). To simplify presentation and gain a strategic overview, I visualized the output in Excel then grouped product pairs by category for higher-level analysis
 
+![Dashboard](https://github.com/thanhhue121/Boost-sales-through-product-pairing/blob/main/SendoFarm_campaigns/Quick%20view/Dashboard.jpg)
+
+![Dashboard2](https://github.com/thanhhue121/Boost-sales-through-product-pairing/blob/main/SendoFarm_campaigns/Quick%20view/Dashboard%202.jpg)
+
 ---
 
 ## 🎯 Successful campaigns backed by this analysis: 
@@ -30,14 +34,28 @@ ORDER BY demand DESC;
 
 - Scenario: A supplier offered us **1,000 cans of BIA VIỆT beer** for free. The challenge is how to distribute them effectively to **maximize sales impact**.
 - Insight from Data: Through SQL analysis of customer purchasing patterns, we identified that **beer most frequently paired with instant noodles (mì, bún, phở ăn liền)** — with a strong demand count of **147**.
+
+![Campaign1](https://github.com/thanhhue121/Boost-sales-through-product-pairing/blob/main/SendoFarm_campaigns/Quick%20view/Campaign%201.1.jpg)
+  
 - Execution: We launched a campaign offering **1 free beer can** for any purchase over **50K VND** from the _instant noodles_ category.
+
+![Campaign](https://github.com/thanhhue121/Boost-sales-through-product-pairing/blob/main/SendoFarm_campaigns/Quick%20view/Campaign%201.png)
+
 - Result: The gifts **ran out within just 4 hours** after launch — proving that the pairing strategy drove **significant sales uplift**.
 
 ### 2. Meat & Vegetable Pairing Campaign: 
 - ❓ Insight: Guess what customers typically buy after purchasing **meat**?
   You might think it's eggs, fruit or more meat, but data says otherwise.
+
+![Campaign2](https://github.com/thanhhue121/Boost-sales-through-product-pairing/blob/main/SendoFarm_campaigns/Quick%20view/Campaign%202.jpg)
+
+![Campaign2.1](https://github.com/thanhhue121/Boost-sales-through-product-pairing/blob/main/SendoFarm_campaigns/Quick%20view/Campaign%202.1.jpg)
+
 - 💡 The top complementary category was **“Rau ăn củ”** (root/stem vegetables) — particularly **bí đao (wax gourd), bí đỏ (pumpkin), cà rốt (carrot), and dưa leo (cucumber)**. These four items consistently appeared in purchasing patterns following meat orders.
 - Execution: Using this insight, we launched a **promotional combo** campaign that encouraged customers to buy both meat and selected vegetables together.
+
+![Campaign2.2](https://github.com/thanhhue121/Boost-sales-through-product-pairing/blob/main/SendoFarm_campaigns/Quick%20view/Campaign%202.3.png)
+
 - 🚀 Result: The campaign drove **a noticeable uplift in cross-category sales**.
 
 ---
